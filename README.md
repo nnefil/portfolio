@@ -24,7 +24,7 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 **Results:** The recommendation system demonstrated an increase in the number of orders and the total order value per user in the experimental group. It's advised to implement the new recommendation system on a permanent basis.  
 
 ### Analising the e-commerce store database
-**Code:** [e-commerce](https://github.com/nnefil/projects/tree/main/e-commerce)
-**Description:** E-commerce project analysis based on three datasets: customers, purchases, and products. The project aimed to provide answers to key questions concerning user behavior, order dynamics, product popularity, user activity, cohort retention, and RFM segmentation.
+**Code:** [e-commerce](https://github.com/nnefil/projects/tree/main/e-commerce)  
+**Description:** E-commerce project analysis based on three datasets: customers, purchases, and products. The project aimed to provide answers to key questions concerning user behavior, order dynamics, product popularity, user activity, cohort retention, and RFM segmentation.  
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization, cohort analisys, RFM Analysis
 
