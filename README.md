@@ -13,4 +13,4 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 
 ### [DeliveryApp_AB_test](https://github.com/nnefil/projects/tree/main/DeliveryApp_AB_test)
 
-### [e-commerce] (https://github.com/nnefil/projects/tree/main/e-commerce)
+### [e-commerce](https://github.com/nnefil/projects/tree/main/e-commerce)
