@@ -6,6 +6,12 @@ Hi, I'm Filipp! I graduated from Saint Petersburg National Research University o
 
 This repository is made to show my skills and way for me to track my progress in Data Analytics
 
+My current stack:
+  1.![Python]([ссылка_на_логотип_python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2TVj1LLG5riOokjCmJRrVz&ust=1697124660044000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjI5oKWqO6BAxUAAAAAHQAAAAAQBA))
+![SQL](ссылка_на_логотип_sql)
+![Clickhouse](ссылка_на_логотип_clickhouse)
+![Airflow](ссылка_на_логотип_airflow)
+
 
 My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Nevedrov_CV_rus.pdf) 
 
