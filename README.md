@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Filipp!
+Hi, I'm Filipp! I graduated from Saint Petersburg National Research University of Information Technologies, Mechanics and Optics with a degree in Management. My professional journey has taken me through roles in sales at a major e-commerce company, procurement, and teaching. While my experiences might seem diverse, I've found clarity in my ambition: I'm deeply committed to building a career as a Data Analyst. Some might say that diving into a new field at 30 is late, but I see it as a timely pivot ensuring no mid-life crisis :smile: I've always had a fervor for learning and now, more than ever, I'm ready to channel that enthusiasm into my newfound passion
 
 
 My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Nevedrov_CV_rus.pdf) 
