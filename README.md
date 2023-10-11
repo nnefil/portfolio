@@ -6,11 +6,11 @@ Hi, I'm Filipp! I graduated from Saint Petersburg National Research University o
 
 This repository is made to show my skills and way for me to track my progress in Data Analytics
 
-My current stack:
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="SQL" width="50" height="50"/>
-<img src="https://www.ilscipio.com/wp-content/uploads/2022/07/clickhouse-logo_freelogovectors.net_.png" alt="Clickhouse" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="50" height="50"/>
+Languages and skills:  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="SQL" width="60" height="60"/>
+<img src="https://www.ilscipio.com/wp-content/uploads/2022/07/clickhouse-logo_freelogovectors.net_.png" alt="Clickhouse" width="100" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="100" height="60"/>
 
 My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Nevedrov_CV_rus.pdf) 
 
