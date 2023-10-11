@@ -7,7 +7,7 @@ Hi, I'm Filipp! I graduated from Saint Petersburg National Research University o
 This repository is made to show my skills and way for me to track my progress in Data Analytics
 
 My current stack:
-<img src="[ссылка_на_логотип_python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" alt="Python" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
 <img src="ссылка_на_логотип_sql" alt="SQL" width="50" height="50"/>
 <img src="ссылка_на_логотип_clickhouse" alt="Clickhouse" width="50" height="50"/>
 <img src="ссылка_на_логотип_airflow" alt="Airflow" width="50" height="50"/>
