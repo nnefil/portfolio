@@ -7,6 +7,7 @@ Hi, I'm Filipp! I graduated from Saint Petersburg National Research University o
 This repository is made to show my skills and way for me to track my progress in Data Analytics
         
 
+
 Languages and skills:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,6 +16,7 @@ Languages and skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1600px-Tableau_Logo.png" alt="Tableau" width="260" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="150" height="60"/>
     
+
         
 My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Nevedrov_CV_rus.pdf) 
 
