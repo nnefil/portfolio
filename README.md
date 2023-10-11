@@ -17,7 +17,7 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 **Results:** Based on the data analysis, the new algorithm's superiority was determined, forming the basis for the recommendation for its large-scale implementation.  
 
 ### Analising Delivery app A/B test results
-**Code:** [DeliveryApp_AB_test](https://github.com/nnefil/projects/tree/main/DeliveryApp_AB_test)
+**Code:** [DeliveryApp_AB_test](https://github.com/nnefil/projects/tree/main/DeliveryApp_AB_test)  
 **Description:** This project revolved around the analysis of the effectiveness of a new product recommendation system in a food delivery application. An A/B test was conducted wherein Group 0 used the application without the recommendation system, while Group 1 engaged with the new recommendation system.
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
