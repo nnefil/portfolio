@@ -8,7 +8,7 @@ This repository is made to show my skills and way for me to track my progress in
 
 My current stack:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-<img src="https://www.zdnet.com/a/img/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png" alt="SQL" width="50" height="50"/>
+<img src="https://p7.hiclipart.com/preview/707/928/892/postgresql-logo-database-management-system-vector-graphics-sql-logo-thumbnail.jpg" alt="SQL" width="50" height="50"/>
 <img src="ссылка_на_логотип_clickhouse" alt="Clickhouse" width="50" height="50"/>
 <img src="ссылка_на_логотип_airflow" alt="Airflow" width="50" height="50"/>
 
