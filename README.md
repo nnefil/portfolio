@@ -24,6 +24,17 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 ## Portfolio Projects
 
 ### Analising Dating App A/B test results 
+**Code:** [educational_platform_AB_testing and SQL](https://github.com/nnefil/education_platform)    
+**Description:** TFinal project of data analysis track of karpov.courses. Project includes three main steps: analysing A/B test results, writing complex SQL query, and writing python function which automatically add new data, recalculate metrics and do visualisation  
+**Skills:** data cleaning, data analysis, A/B testing, data visualization, SQL  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Results:** A/B testing results:
+  - The Conversion Rate (CR) remained stable, indicating that the new payment mechanics didn't deter potential customers.
+  - Average Revenue Per User (ARPU) shows some growth but we coulnd prof that this increase is statisticaly significant. 
+  - There was a significant increase in Average Revenue Per Paying User (ARPPU), suggesting a positive impact of the new payment mechanics.
+
+
+### Analising Dating App A/B test results 
 **Code:** [DatingApp_AB_testing](https://github.com/nnefil/projects/tree/main/DatingApp_AB_test)    
 **Description:** This project focuses on the analysis of A/B test results aimed at assessing the effectiveness of a new algorithm for profile matching in an online dating application.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, data visualization.   
