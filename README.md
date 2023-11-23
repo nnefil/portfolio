@@ -54,7 +54,6 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 **Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization, cohort analisys, RFM Analysis
 
 ## Contacts
-- LinkedIn: [@philipp-nevedrov](https://www.linkedin.com/in/philipp-nevedrov-b29320a2/)
 - Telegram: [@nnefil](https://t.me/nnefil)
-- E-mail: nefil3@gmail.com
+
 
