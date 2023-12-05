@@ -4,7 +4,7 @@
 
 Hi, I'm Philipp! I graduated from Saint Petersburg National Research University of Information Technologies, Mechanics and Optics with a degree in Management. Building a career as a Data Analyst. 
 
-This repository is made to show my skills and way for me to track my progress in Data Analytics
+
 
 
 
