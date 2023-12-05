@@ -1,4 +1,4 @@
-# Philipp Nevedrov - Data Analysis Portfolio 
+# Philipp Nevedrov - Data Analyst Portfolio 
 
 ## About
 
