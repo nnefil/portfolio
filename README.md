@@ -23,7 +23,7 @@ My CV in Russian [pdf](https://github.com/nnefil/portfolio/blob/main/Filipp_Neve
 
 ## Portfolio Projects
 
-### Analysing educational platform A/B test results and SQL (karpov.courses final project)
+### Analysing educational platform A/B test results and SQL
 **Code:** [educational_platform_AB_testing and SQL](https://github.com/nnefil/education_platform)    
 **Description:** TFinal project of data analysis track of karpov.courses. Project includes three main steps: analysing A/B test results, writing complex SQL query, and writing python function which automatically add new data, recalculate metrics and do visualisation  
 **Skills:** data cleaning, data analysis, A/B testing, data visualization, SQL  
